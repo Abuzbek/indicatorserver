@@ -1,8 +1,7 @@
-# Indicator Server | by UMDSOFT
+# Indicator Server | by CLOUD9
 
 > Backend API for Indicator application, which is a bootcamp directory website
 
->Test domen http://sdev.uz:5000
 >
 ## Api For Product list
 >For user Panel
